@@ -1,0 +1,6 @@
+TRAIN_DATA_DIR: "data/train.csv"
+TEST_DATA_DIR: "data/test.csv"
+
+LOAD_DIR: "params/model.json"
+RESULT_DIR: "outputs/train_result.csv"
+SAVE_DIR: "outputs/train_result.csv"
