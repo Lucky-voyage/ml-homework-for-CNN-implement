@@ -1,9 +1,7 @@
 # <center>Digit Recognition Task</center>
 <div style="text-align: center;">
     <div style="display: inline-block; text-align: left;">
-        姓名：王臣龙<br>
-        学号：U202215504<br>
-        班级：CS2205
+        Time：2024.5.11<br>
     </div>
 </div>
 
